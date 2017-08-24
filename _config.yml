@@ -1,0 +1,32 @@
+title: Luis Likes Math
+description: A blog about math, machine learning, and education
+
+url: http://luisguiserrano.github.com/long-haul
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Research
+   url: /research
+ - title: Tutorials
+   url: /tutorials
+ - title: Talks
+   url: /talks
+
+social:
+   github: luisguiserrano
+   twitter: luis_likes_math
+   facebook: luisguiserrano
+   email: luisguiserrano@gmail.com
+
+google_analytics: "UA-105245548-1"
