@@ -14,7 +14,10 @@ title: Talks
 		<h2 class="pageTitle"> Upcoming Seminars </h2>
 		<p>
 			 <ul>
-				<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fluisguiserrano%2Fposts%2F10108916557040033&width=500" width="500" height="632" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>			</ul>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBDGuidance%2Fposts%2F704880219709562&width=500" width="500" height="577" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBDGuidance%2Fposts%2F704628246401426&width=500" width="500" height="608" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBDGuidance%2Fposts%2F704266319770952&width=500" width="500" height="564" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>	
+	</ul>
 		</p>
 
 		<h2 class="pageTitle"> Past Seminars </h2>
