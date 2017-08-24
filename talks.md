@@ -14,8 +14,7 @@ title: Talks
 		<h2 class="pageTitle"> Upcoming Seminars </h2>
 		<p>
 			 <ul>
-				<li></li>				
-			</ul>
+				<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fluisguiserrano%2Fposts%2F10108916557040033&width=500" width="500" height="632" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>			</ul>
 		</p>
 
 		<h2 class="pageTitle"> Videos of past talks </h2>
