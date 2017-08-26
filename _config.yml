@@ -1,7 +1,7 @@
 title: Luis Likes Math
 description: A blog about math, machine learning, and education
 
-url: http://luisguiserrano.github.com/long-haul
+url: http://luisguiserrano.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
