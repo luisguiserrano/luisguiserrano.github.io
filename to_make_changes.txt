@@ -1,0 +1,6 @@
+git add .
+git commit -m "description of the changes"
+git push origin master
+
+bundle exec jekyll serve
+compass watch
