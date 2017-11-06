@@ -16,11 +16,9 @@ navigation:
    url: /index.html
  - title: About
    url: /about
- - title: Articles
-   url: /articles
  - title: Research
    url: /research
- - title: Videos
+ - title: Tutorials
    url: /tutorials
  - title: Talks
    url: /talks
