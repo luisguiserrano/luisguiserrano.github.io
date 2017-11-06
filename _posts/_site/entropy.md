@@ -2,7 +2,7 @@ layout: post
 
 title:  "Shannon Entropy, Information Gain, and Picking Balls from Buckets"
 
-date:   2017-11-05
+date:   2017-11-04
 
 published: true
 
