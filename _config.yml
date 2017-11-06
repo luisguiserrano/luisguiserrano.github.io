@@ -14,16 +14,16 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: About
-   url: /about
  - title: Articles
    url: /articles
- - title: Research
-   url: /research
  - title: Videos
    url: /tutorials
+ - title: Research
+   url: /research
  - title: Talks
    url: /talks
+ - title: About
+   url: /about
 
 social:
    github: luisguiserrano
