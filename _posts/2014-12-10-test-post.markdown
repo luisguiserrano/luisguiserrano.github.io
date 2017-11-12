@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Shannon Entropy, Information Gain, and Picking Balls from Buckets"
+date:   2017-11-10
+url: https://medium.com/udacity/shannon-entropy-information-gain-and-picking-balls-from-buckets-5810d35d54b4
+---
+
+[Link to the article on Medium](https://medium.com/udacity/shannon-entropy-information-gain-and-picking-balls-from-buckets-5810d35d54b4)
+

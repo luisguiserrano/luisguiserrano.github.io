@@ -18,10 +18,10 @@ navigation:
    url: /articles
  - title: Videos
    url: /tutorials
- - title: Research
-   url: /research
  - title: Talks
    url: /talks
+ - title: Research
+   url: /research
  - title: About
    url: /about
 

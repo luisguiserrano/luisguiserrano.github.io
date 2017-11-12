@@ -21,7 +21,7 @@ title: Talks
 		</p>
 
 		<h2 class="pageTitle"> Past Seminars </h2>
-		<li> Talk at the Open Data Science Conference (ODSC) in Boston, 2017
+		<li> Talk at the Open Data Science Conference (ODSC) in Boston, 2017</li>
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/QVeszB-4Zik" frameborder="0" allowfullscreen></iframe>
 		<li> <a href = "https://youtu.be/ERlaLsfsxY0"> Talk at Latinos in Tech, 2016</a></li>
 	</div>

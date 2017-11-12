@@ -37,7 +37,15 @@ title: Tutorials
 			</ul>
 		</p>
 
-
+		<h2 class="pageTitle"> Seminars </h2>
+		<p>
+			 <ul>
+				Deep Learning with Tensorboard (ODSC Boston, 2017)
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/QVeszB-4Zik" frameborder="0" allowfullscreen></iframe>
+				<br><br><a href = "https://youtu.be/ERlaLsfsxY0"> A Friendly Introduction to Deep Learning</a> (Latinos in Tech, 2016)
+			</ul>
+		</p>
 	</div>
+
 	
 </div>
