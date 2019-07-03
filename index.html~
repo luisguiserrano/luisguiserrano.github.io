@@ -3,21 +3,6 @@ layout: default
 title: Luis Likes Math
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
-   <!-- HTML meta refresh URL redirection -->
-   <meta http-equiv="refresh"
-   content="0; url=http://serrano.academy">
-</head>
-<body>
-   <p>The page has moved to:
-   <a href="http://serrano.academy">this page</a></p>
-</body>
-</html>
-
-
-<!-
 <div class="home" id="home">
   <h1 class="pageTitle">Recent Posts</h1>
   <ul class="posts noList">
@@ -39,4 +24,3 @@ title: Luis Likes Math
     {% endif %}
   </div>
 </div>
-->
