@@ -1,4 +1,8 @@
 ---
+from: old-name
+to: new-name
+toDomain: serrano.academy
+toPath: custom-path
 layout: default
 title: About Luis Serrano
 ---
