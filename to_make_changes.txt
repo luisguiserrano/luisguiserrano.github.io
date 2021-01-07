@@ -4,3 +4,4 @@ git push origin master
 
 bundle exec jekyll serve
 compass watch
+
